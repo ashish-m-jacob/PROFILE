@@ -1,0 +1,122 @@
+/* -----------Tag Styling---------*/
+body {
+     margin: 0 0 0 0;
+     text-align: center;
+     font-family: 'Merriweather', serif;
+     margin-bottom: 0px;
+}
+
+h1 {
+     font-size: 9.625rem;
+     margin-top: auto;
+     margin-bottom: auto;
+     font-family: 'Sacramento', cursive;
+     color: #66BFBF;
+     line-height: 2;
+}
+
+h2 {
+     font-family: 'Montserrat', sans-serif;
+     color: #66BFBF;
+     font-weight: bold;
+}
+
+h3 {
+     font-family: 'Montserrat', sans-serif;
+     color: #11999E;
+}
+
+/* -----------Class Styling---------*/
+
+.topcontainer {
+     background-color: #EAF6F6;
+     margin: 0px;
+     position: relative;
+     padding-top: 200px;
+     margin-bottom: 20px;
+}
+
+.middle-container{
+
+     margin: 0px;
+     margin-bottom: 20px;
+
+}
+
+.bottom-container{
+
+     margin: 0 0 0 0;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     background-color: #66BFBF;
+
+}
+
+.top-cloud{
+     position: absolute;
+     right: 500px;
+     top: 150px;
+}
+
+.bottom-cloud{
+     position: absolute;
+     left: 500px;
+     bottom: 300px;
+}
+
+.footer-link{
+     height: 40px;
+     width: 40px;
+     padding-left: 10px;
+     padding-top: 10px;
+     position: inherit;
+}
+
+.btn{
+     text-decoration: none;
+     font-family: 'Montserrat', sans-serif;
+     color: #11999E;
+     font-weight: bolder;
+}
+.hello{
+     width: 60%;
+     position: relative;
+     padding-left: 20%;
+     margin-bottom: 20px;
+     line-height: 2;
+}
+
+.skill-row{
+     width: 50%;
+     margin: 100px auto 150px auto;
+     text-align: left;
+     line-height: 2;
+}
+
+.web{
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+
+}
+
+.java{
+
+     width: 25%;
+     float: right;
+     margin-left: 30px;
+
+}
+
+.content{
+     padding-top: 20px;
+}
+
+.contact-me{
+     margin-bottom: 15px;
+}
+
+.profile{
+     margin-bottom: 20px;
+     padding-bottom: 20px;
+}
